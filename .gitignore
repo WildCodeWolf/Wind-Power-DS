@@ -163,4 +163,4 @@ cython_debug/
 
 # Ignore the data directory except for the README.md
 data/
-!data/README.md
+!/data/README.md
