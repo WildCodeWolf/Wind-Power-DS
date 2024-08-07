@@ -16,4 +16,4 @@ the `data` directory.
 The repo consists of several notebooks, covering different aspects of the
 analysis.  You can read though them as you like, but if you want to follow
 the intended reading order, you should start with the
-EDA notebook first, and then follow the links in the notebooks.
+[EDA notebook](./eda.ipynb) first, and then follow the links in the notebooks.
