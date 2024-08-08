@@ -1,8 +1,7 @@
 ---
 author: WildCodeWolf
 date: Tue  6 Aug 2024 11:00:41 CEST
-updated: Wed  7 Aug 2024 09:00:04 CEST
-
+updated: Thu  8 Aug 2024 13:23:41 CEST
 ---
 
 # Wind-Power-DS
@@ -17,3 +16,6 @@ The repo consists of several notebooks, covering different aspects of the
 analysis.  You can read though them as you like, but if you want to follow
 the intended reading order, you should start with the
 [EDA notebook](./eda.ipynb) first, and then follow the links in the notebooks.
+
+The [ML notebook](./ml.ipynb) serves as the index for the smaller notebooks
+dealing with individual models or approaches.
